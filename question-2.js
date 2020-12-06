@@ -16,7 +16,7 @@ async function getGames() {
             <div class="game">
                 <h1 class="gamename">${data[i].name}</h1>
                 <div class="gamenumbers">
-                    <p>Rating: <div class="gamerating">${data[i].rating}/</div></p>
+                    <p>Rating: <div class="gamerating">${data[i].rating}</div></p>
                     <p>Tags: ${data[i].tags.length}</p>
                 </div>
             </div>`;
