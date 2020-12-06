@@ -8,18 +8,17 @@ h1 {
 }
 
 .game {
-  color: black;
-  font-size: large;
-}
-
-.rating {
-  color: black;
-  font-size: medium;
+  background: lightgray;
 }
 
 .gamenumbers {
   color: black;
   font-size: small;
+}
+
+.rating {
+  color: black;
+  font-size: medium;
 }
 
 .result {
